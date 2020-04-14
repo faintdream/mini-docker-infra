@@ -1,6 +1,6 @@
 #!/bin/bash 
 echo "###################################################################################"
-echo "Deleting & virtualbox dhcp server, it will be created during vagrant up"
+echo "Deleting virtualbox dhcp server, it will be created during vagrant up"
 echo "This is to avoid network conflict due to vpn/non vpn network switch."
 echo "###################################################################################"
 
